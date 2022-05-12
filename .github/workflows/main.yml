@@ -18,7 +18,7 @@ on:
 # create a new job that will run the DevCard GitHub action
 jobs:
   devcard:
-    runs-on: ubuntu-katest
+    runs-on: ubuntu-latest
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.4
