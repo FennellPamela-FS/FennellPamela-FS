@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my B.S. Degree in Web Development at Full Sail University
+- 🌱 I’m currently learning Application Development
+- ⚡ Fun fact: I just activated my DevCard on daily.dev which is a cool feed that provides all developer news in one place. The blog focuses on industry leading platforms so that you can be prepared for your next skill. As I read through articles my DevCard will update to show my progress.
 
 <a href="https://app.daily.dev/mytcreative"><img src="https://github.com/FennellPamela-FS/FennellPamela-FS/blob/main/devcard.svg" width="400" alt="mytcreative's Dev Card"/></a>
 <!--
