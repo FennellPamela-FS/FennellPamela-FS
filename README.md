@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, i am PAM i AM</h1>
-<h3 align="center">i am a innovative entreprenuer with a passion for mentoring youth in technology</h3>
+<h3 align="center">i am a innovative entrepreneur with a passion for mentoring youth in technology</h3>
 
 - 🔭 I’m currently studying [at Full Sail University](https://fullsail.edu) ![Degree Program](https://img.shields.io/badge/degree-web%20design%20%26%20development-blue.svg)
 
