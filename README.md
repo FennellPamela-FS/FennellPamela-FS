@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying [at Full Sail University](https://fullsail.edu) ![Degree Program](https://img.shields.io/badge/degree-web%20design%20%26%20development-blue.svg)
 
-- 🌱 I’m currently learning **Application Development**
+- 🌱 I’m currently learning **Application Development, Interface Programming**
 
 - ⚡ Fun fact: Activated my DevCard on [daily.dev](https://daily.dev/) which is a cool feed that provides all developer news in one place. The blog focuses on industry leading platforms so that you can be prepared for your next skill. As I read through articles my DevCard will update to show my progress.
 
