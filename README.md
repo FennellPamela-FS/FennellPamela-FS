@@ -7,6 +7,9 @@
 
 - ⚡ Fun fact: Activated my DevCard on [daily.dev](https://daily.dev/) which is a cool feed that provides all developer news in one place. The blog focuses on industry leading platforms so that you can be prepared for your next skill. As I read through articles my DevCard will update to show my progress.
 
+<p align="center">
+  <a href="https://app.daily.dev/pamiam"><img src="https://api.daily.dev/devcards/v2/8Og1qgurQOCl5VdV3te4M.png?type=default&r=1sv" width="356" alt="Pamela Fennell's Dev Card"/></a>
+</p>
 <p align="center"><a href="https://app.daily.dev/pamiam"><img src="https://api.daily.dev/devcards/8659c966cb6c41a59d04102d97331652.png?r=v8r" width="400" alt="Pamela Fennell's Dev Card"/></a></p>
 
 <!--
